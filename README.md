@@ -42,3 +42,6 @@ git config --global user.email "ваш_email@example.com"
 git config --list --show-origin
 ![Скриншот 1](Снимок экрана 2026-11-12 001124.png)
 Screenshot From 2026-11-11 17-57-26.
+
+```
+![Скриншот 1](Снимок экрана 2026-11-12 001124.png)
