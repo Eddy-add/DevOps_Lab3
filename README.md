@@ -40,4 +40,5 @@ sudo apt update && sudo apt install git -y
 git config --global user.name "Ваше Имя"
 git config --global user.email "ваш_email@example.com"
 git config --list --show-origin
-<img width="702" height="539" alt="Screenshot From 2026-11-11 17-57-26" src="https://github.com/user-attachments/assets/189a30e8-9c57-4061-9e39-327a3ceb35ea" />
+![Скриншот 1](Снимок экрана 2026-11-12 001124.png)
+Screenshot From 2026-11-11 17-57-26.
