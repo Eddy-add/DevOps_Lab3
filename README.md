@@ -25,6 +25,7 @@
 * **Основная ОС (хост):** Windows с веб-браузером Mozilla Firefox для управления удалённым репозиторием и настройками профиля GitHub.
 * **Платформа хостинга репозиториев:** GitHub (`https://github.com/Eddy-add/DevOps_Lab3`).
 * **Используемое ПО:** `git`, `openssh-client` (`ssh-keygen`), консольный текстовый редактор `nano`.
+* **Репозиторий на котором выполнялась работа - https://github.com/Eddy-add/DevOps-Lab3
 
 ---
 
